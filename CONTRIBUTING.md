@@ -9,7 +9,8 @@
 
 - Телеграм канал рабочей группы. Мы Вас добавим при вступлении
 - [Доска задач](https://github.com/orgs/futurerussia-ch/projects/2)
-- [Задачи, которые вы можете взять](https://github.com/futurerussia-ch/wg-social-media-and-content/issues)
+- [Задачи по Social Media, которые вы можете взять](https://github.com/futurerussia-ch/wg-social-media-and-content/issues)
+- [Задачи по Веб-сайту](https://github.com/futurerussia-ch/futurerussia-ch.github.io/issues)
 
 ## Доступ
 
