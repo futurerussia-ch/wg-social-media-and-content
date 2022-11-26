@@ -7,7 +7,7 @@
 - [Группа Facebook](https://www.facebook.com/russzurich)
 - [Instagram](https://www.instagram.com/futurerussia_ch/)
 - [Twitter](https://twitter.com/futurerussia_ch)
-- [Публичный канал в Telegram]
+- [Публичный канал в Telegram](https://t.me/futurerussia_ch)
 
 ## Ресурсы, которые мы поддерживаем
 
